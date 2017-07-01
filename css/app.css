@@ -1,0 +1,105 @@
+* {
+  outline: none;
+}
+
+.social-container {
+  background-color: #1c3643;
+}
+
+.logo-container .callout {
+  background-color: #ee3f54;
+  color: white;
+  margin-bottom: 0;
+}
+
+.menu-container {
+  background-color: #48a19d;
+  color: white;
+  text-transform: uppercase;
+}
+
+.menu-container li a {
+  color: white;
+}
+
+.menu-container li a:hover {
+  color: #f6e15f;
+}
+
+.submenu {
+  background-color: #48a19d;
+}
+
+.submenu li a {
+  color: white;
+}
+
+
+.dropdown.menu .is-active > a {
+  color: white;
+}
+
+.dropdown.menu .is-active > a:hover {
+  color: #f6e15f;
+}
+
+.tickets-action .callout {
+  background-color: #5e7eb7;
+  margin-bottom: 0;
+}
+
+.tickets-action .callout button {
+  border: 1px solid white;
+  color: white;
+}
+
+.lineup-container,
+.tabs,
+.tabs a:hover,
+.tabs-content,
+.tabs-title > a:focus, .tabs-title > a[aria-selected='true'] {
+  background-color: #9676af;
+}
+
+.lineup-container .tabs {
+  border-color: #9676af;
+}
+
+.lineup-container h2 {
+  color: white;
+}
+
+.lineup-container .tabs-title > a {
+  font-size: 18px;
+  color: #a7fffb;
+}
+
+.lineup-container .tabs-title > a:hover {
+  color: white;
+}
+
+.lineup-container .tabs-title {
+  display: inline-block;
+  float: none;
+}
+
+.close-button {
+  cursor: pointer;
+  float: right;
+  font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
